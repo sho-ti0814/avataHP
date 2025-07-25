@@ -8,8 +8,12 @@ function About() {
           まめめについて
         </h2>
         <p className="text-[#4a3f35] leading-relaxed font-serif" style={{ fontFamily: 'Noto Serif JP, serif' }}>
-          Vライバー「まめめ」です。BathTimeRadio名義で配信やBOOTH作品を展開中！<br />
-          お風呂タイムのようにリラックスできる配信を目指しています。
+          まめめは、心にそっと寄り添う声を届ける配信者。<br />
+          ちょっと疲れた夜、ふと寂しくなった時、<br />
+          あなたの耳にやさしく届くのは、低くてあたたかな声。<br />
+          REALITYで配信中の「BathTimeRadio」では、<br />
+          お風呂の中でも聴ける、まったり雑談とささやき声で<br />
+          あなただけの癒しの時間をお届けします。
         </p>
       </div>
     </section>
